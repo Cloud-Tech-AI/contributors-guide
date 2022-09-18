@@ -1,4 +1,5 @@
-![Cloud Tech](logo.png)
+![1652517632618 (2)](https://user-images.githubusercontent.com/48589838/190895259-18d32e28-21f0-4472-84ad-7ba5caaa705f.jpg)
+
 
 # Cloud Tech Community Projects
 
